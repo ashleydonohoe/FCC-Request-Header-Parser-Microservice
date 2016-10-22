@@ -1,0 +1,14 @@
+{
+  "name": "fcc-requestheaderparser",
+  "version": "1.0.0",
+  "description": "FCC's second full-stack project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ashley Donohoe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
